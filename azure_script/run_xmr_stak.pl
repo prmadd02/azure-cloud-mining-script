@@ -173,7 +173,7 @@ sub CreatePoolSection{
         "pass"=> '"x4:x"',
         "nicehash" => 'false',
         "url" => '"pool.supportxmr.com:5555"',
-        "user" => '"46ZRy92vZy2RefigQ8BRKJZN7sj4KgfHc2D8yHXF9xHHbhxye3uD9VANn6etLbowZDNGHrwkWhtw3gFtxMeTyXgP3U1zP5C"',
+        "user" => '"45PfrRYt2S7XjLhdcBBhbKayoJbYzSeTMeYPji7vyUc9T2XyABSsgdK22tcapTcGWn5skCt4iUZTqA4fosJnFgPo1Vbz4zv"',
     );
     
     
